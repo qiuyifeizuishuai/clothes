@@ -1,0 +1,7 @@
+*{padding: 0;margin: 0}
+li{list-style: none}
+
+input,button{outline: none;}
+input::placeholder{color: #AEAEAE}
+
+.withDiv{width: 1168px;margin: 0 auto}
